@@ -1,0 +1,8 @@
+C:\Users\ACT-STUDENT\Desktop\Midterm-EXER_06-Simple-Inheritance-with-Properties-OOP\Salon_SimpleInheritance\Salon_SimpleInheritance\bin\Debug\Salon_SimpleInheritance.exe.config
+C:\Users\ACT-STUDENT\Desktop\Midterm-EXER_06-Simple-Inheritance-with-Properties-OOP\Salon_SimpleInheritance\Salon_SimpleInheritance\bin\Debug\Salon_SimpleInheritance.exe
+C:\Users\ACT-STUDENT\Desktop\Midterm-EXER_06-Simple-Inheritance-with-Properties-OOP\Salon_SimpleInheritance\Salon_SimpleInheritance\bin\Debug\Salon_SimpleInheritance.pdb
+C:\Users\ACT-STUDENT\Desktop\Midterm-EXER_06-Simple-Inheritance-with-Properties-OOP\Salon_SimpleInheritance\Salon_SimpleInheritance\obj\Debug\Salon_SimpleInheritance.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Desktop\Midterm-EXER_06-Simple-Inheritance-with-Properties-OOP\Salon_SimpleInheritance\Salon_SimpleInheritance\obj\Debug\Salon_SimpleInheritance.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Desktop\Midterm-EXER_06-Simple-Inheritance-with-Properties-OOP\Salon_SimpleInheritance\Salon_SimpleInheritance\obj\Debug\Salon_SimpleInheritance.exe
+C:\Users\ACT-STUDENT\Desktop\Midterm-EXER_06-Simple-Inheritance-with-Properties-OOP\Salon_SimpleInheritance\Salon_SimpleInheritance\obj\Debug\Salon_SimpleInheritance.pdb
+C:\Users\ACT-STUDENT\Desktop\Midterm-EXER_06-Simple-Inheritance-with-Properties-OOP\Salon_SimpleInheritance\Salon_SimpleInheritance\obj\Debug\Salon_SimpleInheritance.exe.config
